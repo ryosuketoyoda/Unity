@@ -1,0 +1,44 @@
+IIiniitialize eneineeversono:: 5..5.00f3  (3b4efef76f0)0)
+GfxDevice: c creati dedvice client; threaded=1
+Direrect33:D
+:    Verssiino n:  DireDt3 11.0 [[leeel 11.0]]   Rendeererer: VIVDDIA GAeGeForce GTX 96MM (II=0=01x91)
+39b)end  r:en or N  IDIAD   
+ V RAR: M     30372  MBB
+   D Diriver:   23..11..13.91
+25
+Beeingin MoanaoManReloadAslsemblymbly
+Plalaotf arms assem bly: C:\Uvaerntan\Des\Dktop\pUUnity\Unnitty\Test_Data\Managed\UniityEnginne.dll t(ishime sessggeeisi harmmlees)s
+)L
+oLoading C:\Ursevantan\Desktop\toU\Unity\ty\Unity\TeDast\Ma_Data\Managed\UneidllEn inindllo  niin Cto Uniomaty
+ Child Domain
+Platflrm aatformy: C:\Users\C:\Uservantan\Desktot\p\Uniy\Unty\Unity\Teta\Managed\ageA\Assemmly-CShaharprp.dllt(this mesge sage imlsss)
+rmLoadin
+g C:\Useg C:\Users\vantan\Desktop\niUy\TestUnit_Data\MDataedManaged\Assembly-CllSinto Unity Child Dom Chiad n
+omain
+Platform assembly:bly: C:\Users\va\Desntan\Deity\Un\Uity\Test_DaTa\st_Dated\anityEngineUn.tyE.dllnginis messa e (t hirmlesss)a
+ge is inh C:\Uses)
+vaLoadn\Deing C:\Users\vity\anta_D\ta\MaDesktoUnUnity\Unitye.UI\Tes i_Dnta\ Unianaged\lU Domain
+ine.UI.dll into Unity Child Domain
+PPlatfrorm asmbly: C:\:\Usrsevrntan\Desk\top\Unity\Unity\Tes\Tt_Datat\Ma\Managed\Unitginy.Nngine.Netw.rking.lll (this meessage is harmless))
+
+LLoadnngg C:\Users\vantan\Destok\Unity\Uty\Unity\Tesata\Mana\Md\naityd\UnityNEtworki.getwol intg.dUnity Coild Domain
+Child Domain
+Platform assembly: C:\Userrs\vannan\Desktop\U\UnityUUnityi\Test_Data\M\Manage\UnUniyEngine.PlaymodeTestsRunnererll l (this essmge sis harmless)es
+s)
+Loading ng C:\Users\vanntan\Desktop\Unity\Un\Testest_Data\MaanageU\nittyEngine.PlayymodeTestsRunner.dll into Uniity Chilld Domain
+-  ompmpeletedelrel, in , in  0.388 seco
+nds
+Platform assembly:  :\Users\s\vntan\D\DesktopUnity\Unity\Test_Data\Managed\System.Core.dlll (hiss message is harmless)
+)
+Platforrm assembly: C:\Users\van\va\Deansktop\Unity\Uy\Uny\Test_Da_Data\Manag\Systestedll (this ms mege is hisarmlessss)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.569874 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 6650 -> priority: 1 
+  Thread -> id: 2e60 -> priority: 1 
